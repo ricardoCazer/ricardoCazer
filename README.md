@@ -1,4 +1,4 @@
-<img src="https://share.google/X34hySlGzvGrYKCyO" alt="rock">
+<img src="https://share.google/X34hySlGzvGrYKCyO">
 
 
 <h3 align="left">Revolutionary Brazilian named Ricardo:</h3>
