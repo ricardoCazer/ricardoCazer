@@ -1,7 +1,7 @@
 
 
 
-<h3 align="left">Revolutionary Brazilian named Ricardo:</h3>
+<h3 align="left">Revolutionary Brazilian named Ricardo</h3>
 <p align="left">
 </p>
 
