@@ -1,4 +1,4 @@
-<img src=">
+
 
 
 <h3 align="left">Revolutionary Brazilian named Ricardo:</h3>
