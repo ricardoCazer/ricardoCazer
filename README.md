@@ -1,4 +1,4 @@
-
+<img src="https://pin.it/35TzgyvL4" alt="Rock">
 <h3 align="left">Revolutionary Brazilian named Ricardo:</h3>
 <p align="left">
 </p>
