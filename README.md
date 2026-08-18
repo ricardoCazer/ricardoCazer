@@ -22,6 +22,8 @@
 </table>
 </table>
   <h3>To aprendendo esses ai</h3>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivVbPwWjlXx-6qhBy3y5svCk8DA0IfP9UaYg0Fj66YO8fTs7W0EzzPjAb&s=10" width="250"/>
+  
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
