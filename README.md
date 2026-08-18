@@ -10,7 +10,7 @@
 <table border="1" cellpadding="10">
   <tr>
     <td>
-      <img src="https://png.pngtree.com/png-vector/20241225/ourlarge/pngtree-high-quality-blender-on-black-background-with-sleek-design-perfect-for-png-image_14876109.png" width="120"/>
+      <img src="https://png.pngtree.com/png-vector/20241225/ourlarge/pngtree-high-quality-blender-on-black-background-with-sleek-design-perfect-for-png-image_14876109.png" width="220"/>
     </td>
     <td>
       <p align="left">Sou um estudante de programação e artista iniciante, com experiência em modelagem 3d com Blender. Além de alguns projetos amadores em ferramentas para criar jogos, como unity e godot.</p>
