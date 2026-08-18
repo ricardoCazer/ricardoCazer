@@ -36,11 +36,12 @@
   <br>
 <h3 align="center">To aprendendo esses ai</h3>
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivVbPwWjlXx-6qhBy3y5svCk8DA0IfP9UaYg0Fj66YO8fTs7W0EzzPjAb&s=10" width="450"/>
+</p>
+
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivVbPwWjlXx-6qhBy3y5svCk8DA0IfP9UaYg0Fj66YO8fTs7W0EzzPjAb&s=10" width="150"/>
-    </td>
     <td align="center">
       <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100" height="100"/>
@@ -55,4 +56,13 @@
   <tr>
     <td align="center">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://unity.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/vectorlogo/logos/unity3d/unity3d-icon.svg" alt="unity" width="100" height="100"/>
+      </a>
+    </td>
+  </tr>
+</table>
