@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxu5z7egYho2Ok_r00LD38gUkzv4bQWAKS4-qdfA42vw&s=10" width="350"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxu5z7egYho2Ok_r00LD38gUkzv4bQWAKS4-qdfA42vw&s=10" width="750"/>
     </td>
     <td>
       <h3 align="left">Revolutionary Brazilian named Ricardo</h3>
