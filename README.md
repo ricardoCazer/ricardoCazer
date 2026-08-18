@@ -7,19 +7,16 @@
       <h3 align="left">Revolutionary Brazilian named Ricardo</h3>
     </td>
   </tr>
-</table>
 <table border="1" cellpadding="10">
   <tr>
     <td>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zW33rDnr9skEaI-U5upfnFyK0KTeUh2ScmsZtLShU_PRMvhvTswK427N&s=100" width="140"/>
     </td>
     <td>
-      <p align="left">
-        Sou um estudante de programação<br>
-        e artista iniciante,<br>
-        com experiência em modelagem 3d<br>
-        com Blender
-      </p>
+      <p align="left">Sou um estudante de programação e artista iniciante, com experiência em modelagem 3d com Blender. Além de alguns projetos amadores em ferramentas para criar jogos, como unity e godot.</p>
+    </td>
+    <td>
+      <img src="[URL_DA_SEGUNDA_IMAGEM_AQUI" width](https://images.stockcake.com/public/b/f/9/bf9991b4-0829-4626-ae48-5dee8d669992_large/unity-in-diversity-stockcake.jpg)="140"/>
     </td>
   </tr>
 </table>
