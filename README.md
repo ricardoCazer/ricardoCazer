@@ -44,24 +44,24 @@
   <tr>
     <td align="center">
       <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100" height="100"/>
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="150" height="150"/>
       </a>
     </td>
     <td align="center">
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="150" height="150"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="150" height="150"/>
       </a>
     </td>
     <td align="center">
       <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vJbCSDI0DJhPnnBkJFza3BPHtIL2jrFpLhfOdCsQxQ&s=10" width="100" height="100"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vJbCSDI0DJhPnnBkJFza3BPHtIL2jrFpLhfOdCsQxQ&s=10" width="150" height="150"/>
       </a>
     </td>
   </tr>
