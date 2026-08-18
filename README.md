@@ -16,7 +16,7 @@
       <p align="left">Sou um estudante de programação e artista iniciante, com experiência em modelagem 3d com Blender. Além de alguns projetos amadores em ferramentas para criar jogos, como unity e godot.</p>
     </td>
     <td>
-      <img src="[URL_DA_SEGUNDA_IMAGEM_AQUI" width](https://images.stockcake.com/public/b/f/9/bf9991b4-0829-4626-ae48-5dee8d669992_large/unity-in-diversity-stockcake.jpg)="140"/>
+      <img src="https://images.stockcake.com/public/b/f/9/bf9991b4-0829-4626-ae48-5dee8d669992_large/unity-in-diversity-stockcake.jpg"140"/>
     </td>
   </tr>
 </table>
