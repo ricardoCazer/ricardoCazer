@@ -10,13 +10,13 @@
 <table border="1" cellpadding="10">
   <tr>
     <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zW33rDnr9skEaI-U5upfnFyK0KTeUh2ScmsZtLShU_PRMvhvTswK427N&s=140" width="140"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zW33rDnr9skEaI-U5upfnFyK0KTeUh2ScmsZtLShU_PRMvhvTswK427N&s=140" width="80"/>
     </td>
     <td>
       <p align="left">Sou um estudante de programação e artista iniciante, com experiência em modelagem 3d com Blender. Além de alguns projetos amadores em ferramentas para criar jogos, como unity e godot.</p>
     </td>
     <td>
-      <img src="https://images.stockcake.com/public/b/f/9/bf9991b4-0829-4626-ae48-5dee8d669992_large/unity-in-diversity-stockcake.jpg"140"/>
+      <img src="https://images.stockcake.com/public/b/f/9/bf9991b4-0829-4626-ae48-5dee8d669992_large/unity-in-diversity-stockcake.jpg"80"/>
     </td>
   </tr>
 </table>
