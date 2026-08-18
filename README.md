@@ -1,4 +1,4 @@
-<img" src="["](https://share.google/f94DDFSRYYjwesz4G)"/>
+<img src="[caminho/da/imagem.jpg](https://media.tenor.com/OUKo4jVsshgAAAAM/persona-4-persona.gif)" alt="rock and roll">
 
 
 <h3 align="left">Revolutionary Brazilian named Ricardo</h3>
