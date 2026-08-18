@@ -9,6 +9,9 @@
   </tr>
 </table>
 
+  <h3 align="left">Sou um estudante de programação e artista iniciante, com experiência em modelagem 3d com Blander</h3>
+  
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zW33rDnr9skEaI-U5upfnFyK0KTeUh2ScmsZtLShU_PRMvhvTswK427N&s=100" width="140"/>
 <p align="left">
   <h3>To aprendendo esses ai</h3>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
