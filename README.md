@@ -25,15 +25,15 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivVbPwWjlXx-6qhBy3y5svCk8DA0IfP9UaYg0Fj66YO8fTs7W0EzzPjAb&s=10" width="450"/>
   
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="200"/>
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="200" height="200"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="200"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="200" height="200"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="200"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="200" height="200"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="200" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="200" height="200"/>
   </a>
 </p>
