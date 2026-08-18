@@ -1,4 +1,4 @@
-<img src="[caminho/da/imagem.jpg](https://media.tenor.com/OUKo4jVsshgAAAAM/persona-4-persona.gif)" alt="rock and roll">
+<img src="https://br.pinterest.com/pin/706431891602793042/" alt="rock and roll">
 
 
 <h3 align="left">Revolutionary Brazilian named Ricardo</h3>
