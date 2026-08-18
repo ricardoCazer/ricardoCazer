@@ -1,4 +1,4 @@
-<img src="https://tenor.com/pt-BR/view/persona-5-gif-16117462848533165755" />
+<img src="https://share.google/ruI12TaP8iSXM1rB6.png" />
 
 
 <h3 align="left">Revolutionary Brazilian named Ricardo</h3>
