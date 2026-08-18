@@ -8,11 +8,16 @@
     </td>
   </tr>
 </table>
-
-  <h3 align="left">Sou um estudante de programação e artista iniciante, com experiência em modelagem 3d com Blander</h3>
-  
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zW33rDnr9skEaI-U5upfnFyK0KTeUh2ScmsZtLShU_PRMvhvTswK427N&s=100" width="140"/>
-<p align="left">
+<table border="1" cellpadding="10">
+  <tr>
+    <td>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zW33rDnr9skEaI-U5upfnFyK0KTeUh2ScmsZtLShU_PRMvhvTswK427N&s=100" width="140"/>
+    </td>
+    <td>
+      <h3 align="left">Sou um estudante de programação e artista iniciante, com experiência em modelagem 3d com Blender</h3>
+    </td>
+  </tr>
+</table>
   <h3>To aprendendo esses ai</h3>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
