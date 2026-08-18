@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxu5z7egYho2Ok_r00LD38gUkzv4bQWAKS4-qdfA42vw&s=10" width="80"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxu5z7egYho2Ok_r00LD38gUkzv4bQWAKS4-qdfA42vw&s=10" width="400"/>
     </td>
     <td>
       <h3 align="left">Revolutionary Brazilian named Ricardo</h3>
@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="200" height="40"/>
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
