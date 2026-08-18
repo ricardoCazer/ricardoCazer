@@ -10,7 +10,7 @@
 <table border="1" cellpadding="10">
   <tr>
     <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zW33rDnr9skEaI-U5upfnFyK0KTeUh2ScmsZtLShU_PRMvhvTswK427N&s=100" width="140"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zW33rDnr9skEaI-U5upfnFyK0KTeUh2ScmsZtLShU_PRMvhvTswK427N&s=140" width="140"/>
     </td>
     <td>
       <p align="left">Sou um estudante de programação e artista iniciante, com experiência em modelagem 3d com Blender. Além de alguns projetos amadores em ferramentas para criar jogos, como unity e godot.</p>
