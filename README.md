@@ -50,13 +50,4 @@
         <img src="https://raw.githubusercontent.com/vectorlogo/logos/unity3d/unity3d-icon.svg" alt="unity" width="100" height="100"/>
       </a>
     </td>
-  </tr>
-</table>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="200" height="200"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="200" height="200"/>
-  </a>
-</p>
+ 
