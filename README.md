@@ -1,4 +1,4 @@
-<img src="https://br.pinterest.com/pin/703756189174887/" alt="rock and roll">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxu5z7egYho2Ok_r00LD38gUkzv4bQWAKS4-qdfA42vw&s=10" alt="rock and roll">
 
 
 <h3 align="left">Revolutionary Brazilian named Ricardo</h3>
