@@ -13,7 +13,7 @@
       <img src="https://png.pngtree.com/png-vector/20241225/ourlarge/pngtree-high-quality-blender-on-black-background-with-sleek-design-perfect-for-png-image_14876109.png" width="560"/>
     </td>
     <td>
-      <p align="left">Sou um estudante de programação e artista iniciante, com experiência em modelagem 3d com Blender. Além de alguns projetos amadores em ferramentas para criar jogos, como unity e godot.</p>
+      <b align="left">Sou um estudante de programação e artista iniciante, com experiência em modelagem 3d com Blender. Além de alguns projetos amadores em ferramentas para criar jogos, como unity e godot.</b>
     </td>
     <td>
       <img src="https://images.stockcake.com/public/b/f/9/bf9991b4-0829-4626-ae48-5dee8d669992_large/unity-in-diversity-stockcake.jpg"80"/>
