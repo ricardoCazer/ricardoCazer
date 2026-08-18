@@ -5,7 +5,6 @@
     </td>
     <td>
       <h3 align="left">Revolutionary Brazilian named Ricardo</h3>
-      <h3 align="left">To aprendendo esses ai</h3>
     </td>
   </tr>
 </table>
