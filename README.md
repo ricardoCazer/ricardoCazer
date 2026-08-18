@@ -1,4 +1,4 @@
-<table>
+<table border="3">
   <tr>
     <td>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxu5z7egYho2Ok_r00LD38gUkzv4bQWAKS4-qdfA42vw&s=10" width="400"/>
