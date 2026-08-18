@@ -46,9 +46,5 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/vectorlogo/logos/unity3d/unity3d-icon.svg" alt="unity" width="100" height="100"/>
-      </a>
-    </td>
-   </tr>
+    
  
