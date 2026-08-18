@@ -1,4 +1,4 @@
-<img src="https://giphy.com/explore/greyhound-white" alt="rock and roll">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxu5z7egYho2Ok_r00LD38gUkzv4bQWAKS4-qdfA42vw&s=10"rock and roll">
 
 
 <h3 align="left">Revolutionary Brazilian named Ricardo</h3>
