@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivVbPwWjlXx-6qhBy3y5svCk8DA0IfP9UaYg0Fj66YO8fTs7W0EzzPjAb&s=10" width="450"/>
 </p>
-
+</hr>
 <table align="center">
   <tr>
     <td align="center">
